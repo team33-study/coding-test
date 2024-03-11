@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Day1_1 {
+public class BJ1747 {
     public static void main(String[] args) throws IOException {
         //baekjoon 1747: 소수&팰린드롬
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

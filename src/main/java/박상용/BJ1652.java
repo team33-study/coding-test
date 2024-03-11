@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Day1_2 {
+public class BJ1652 {
     public static void main(String[] args) throws IOException {
         //baekjoon 1652: 누울 자리를 찾아라
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
